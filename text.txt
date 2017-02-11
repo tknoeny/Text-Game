@@ -1,0 +1,38 @@
+swamp
+This place is creepy...
+north forest
+west field
+#
+axe
+book
+/
+forest
+Trees block your view.
+south swamp
+west house
+#
+branch
+rope
+/
+field
+You've arrived at an opening, it feels like someone is watching...
+north house
+east swamp
+#
+shoe
+/
+house
+An abondoned house. You see some movement inside.
+south field
+east forest
+north portal
+#
+nails
+board
+/
+portal
+You've arrived at a mysterious place. Feels like a trap..
+south house
+#
+gem
+/
